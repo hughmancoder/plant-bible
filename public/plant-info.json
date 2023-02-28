@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Peace Lilly",
+        "commonNames": [
+            "Peace Lilly",
+            "Spathiphyllum"
+        ],
+        "scientificName": "Spathiphyllum",
+        "link": "https://www.wikiwand.com/en/Spathiphyllum",
+        "maintanence": {
+            "light": 2,
+            "water": 3
+        },
+        "propagation": [
+            "division"
+        ],
+        "infoLink": "https://www.aspca.org/sites/default/files/styles/medium_image_300x200/public/field/image/plants/arum-r.jpg?itok=206UUxCJ"
+    }
+]
